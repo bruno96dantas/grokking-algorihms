@@ -1,1 +1,1 @@
-# grokking-algorihms
+# grokking-algorithms
